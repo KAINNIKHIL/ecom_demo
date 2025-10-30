@@ -90,4 +90,14 @@ Bonus Implementation
  Responsive Tailwind design
  JWT Auth (future scope)
 
+SCREENSHOTS
+Products
+<img width="1843" height="892" alt="Screenshot 2025-10-30 174216" src="https://github.com/user-attachments/assets/c27ba307-289e-456f-b72c-6caa542dfac0" />
+Cart
+<img width="843" height="864" alt="Screenshot 2025-10-30 174245" src="https://github.com/user-attachments/assets/80b2e615-92b8-4b6d-a05a-d1bf73b55348" />
+CheckOut
+<img width="789" height="579" alt="Screenshot 2025-10-30 174304" src="https://github.com/user-attachments/assets/71ffef90-232c-489b-8580-c9a2cf632942" />
+Receipt
+<img width="767" height="689" alt="Screenshot 2025-10-30 174314" src="https://github.com/user-attachments/assets/a04a03cd-d6d7-4bb1-9757-327c12b9e104" />
+
 
